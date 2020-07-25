@@ -1,5 +1,27 @@
 <resources>
     <string name="app_name">Utility Tools</string>
+
+
+    //Splash Screen
     <string name="splash_logo">Utility Tools</string>
     <string name="splash_logo_describe">Splash Screen Logo</string>
+
+
+    //DashBoard
+    <string name="dashboard_heading">Utility List</string>
+    <string name="item_description">Few Lines oF Description</string>
+    <string name="item_title">Title of the Application</string>
+    <string name="item_img_context">Image pertaining to the Tool</string>
+    <string-array name="dashboard_item">
+        <item>Smart Search</item>
+        <item>Image Cropper</item>
+        <item>File Type Converter</item>
+        <item>FTP Server</item>
+    </string-array>
+    <string-array name="dashboard_item_description">
+        <item>A smart search with power of regex</item>
+        <item>Automatic image cropping utility</item>
+        <item>Convert one File type to another.</item>
+        <item>A File transfer Server to send and receive Files </item>
+    </string-array>
 </resources>
